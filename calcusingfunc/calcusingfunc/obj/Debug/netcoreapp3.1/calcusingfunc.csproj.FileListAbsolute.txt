@@ -1,0 +1,14 @@
+C:\Users\srinivasulu\source\repos\calcusingfunc\calcusingfunc\bin\Debug\netcoreapp3.1\calcusingfunc.exe
+C:\Users\srinivasulu\source\repos\calcusingfunc\calcusingfunc\bin\Debug\netcoreapp3.1\calcusingfunc.deps.json
+C:\Users\srinivasulu\source\repos\calcusingfunc\calcusingfunc\bin\Debug\netcoreapp3.1\calcusingfunc.runtimeconfig.json
+C:\Users\srinivasulu\source\repos\calcusingfunc\calcusingfunc\bin\Debug\netcoreapp3.1\calcusingfunc.runtimeconfig.dev.json
+C:\Users\srinivasulu\source\repos\calcusingfunc\calcusingfunc\bin\Debug\netcoreapp3.1\calcusingfunc.dll
+C:\Users\srinivasulu\source\repos\calcusingfunc\calcusingfunc\bin\Debug\netcoreapp3.1\calcusingfunc.pdb
+C:\Users\srinivasulu\source\repos\calcusingfunc\calcusingfunc\obj\Debug\netcoreapp3.1\calcusingfunc.csproj.AssemblyReference.cache
+C:\Users\srinivasulu\source\repos\calcusingfunc\calcusingfunc\obj\Debug\netcoreapp3.1\calcusingfunc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\srinivasulu\source\repos\calcusingfunc\calcusingfunc\obj\Debug\netcoreapp3.1\calcusingfunc.AssemblyInfoInputs.cache
+C:\Users\srinivasulu\source\repos\calcusingfunc\calcusingfunc\obj\Debug\netcoreapp3.1\calcusingfunc.AssemblyInfo.cs
+C:\Users\srinivasulu\source\repos\calcusingfunc\calcusingfunc\obj\Debug\netcoreapp3.1\calcusingfunc.csproj.CoreCompileInputs.cache
+C:\Users\srinivasulu\source\repos\calcusingfunc\calcusingfunc\obj\Debug\netcoreapp3.1\calcusingfunc.dll
+C:\Users\srinivasulu\source\repos\calcusingfunc\calcusingfunc\obj\Debug\netcoreapp3.1\calcusingfunc.pdb
+C:\Users\srinivasulu\source\repos\calcusingfunc\calcusingfunc\obj\Debug\netcoreapp3.1\calcusingfunc.genruntimeconfig.cache
