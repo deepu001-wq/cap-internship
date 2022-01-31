@@ -1,0 +1,14 @@
+C:\Users\srinivasulu\source\repos\refexample\refexample\obj\Debug\netcoreapp3.1\refexample.csproj.AssemblyReference.cache
+C:\Users\srinivasulu\source\repos\refexample\refexample\obj\Debug\netcoreapp3.1\refexample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\srinivasulu\source\repos\refexample\refexample\obj\Debug\netcoreapp3.1\refexample.AssemblyInfoInputs.cache
+C:\Users\srinivasulu\source\repos\refexample\refexample\obj\Debug\netcoreapp3.1\refexample.AssemblyInfo.cs
+C:\Users\srinivasulu\source\repos\refexample\refexample\obj\Debug\netcoreapp3.1\refexample.csproj.CoreCompileInputs.cache
+C:\Users\srinivasulu\source\repos\refexample\refexample\bin\Debug\netcoreapp3.1\refexample.exe
+C:\Users\srinivasulu\source\repos\refexample\refexample\bin\Debug\netcoreapp3.1\refexample.deps.json
+C:\Users\srinivasulu\source\repos\refexample\refexample\bin\Debug\netcoreapp3.1\refexample.runtimeconfig.json
+C:\Users\srinivasulu\source\repos\refexample\refexample\bin\Debug\netcoreapp3.1\refexample.runtimeconfig.dev.json
+C:\Users\srinivasulu\source\repos\refexample\refexample\bin\Debug\netcoreapp3.1\refexample.dll
+C:\Users\srinivasulu\source\repos\refexample\refexample\bin\Debug\netcoreapp3.1\refexample.pdb
+C:\Users\srinivasulu\source\repos\refexample\refexample\obj\Debug\netcoreapp3.1\refexample.dll
+C:\Users\srinivasulu\source\repos\refexample\refexample\obj\Debug\netcoreapp3.1\refexample.pdb
+C:\Users\srinivasulu\source\repos\refexample\refexample\obj\Debug\netcoreapp3.1\refexample.genruntimeconfig.cache

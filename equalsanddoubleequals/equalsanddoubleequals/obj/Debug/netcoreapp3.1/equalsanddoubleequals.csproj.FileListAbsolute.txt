@@ -1,0 +1,14 @@
+C:\Users\srinivasulu\source\repos\equalsanddoubleequals\equalsanddoubleequals\bin\Debug\netcoreapp3.1\equalsanddoubleequals.exe
+C:\Users\srinivasulu\source\repos\equalsanddoubleequals\equalsanddoubleequals\bin\Debug\netcoreapp3.1\equalsanddoubleequals.deps.json
+C:\Users\srinivasulu\source\repos\equalsanddoubleequals\equalsanddoubleequals\bin\Debug\netcoreapp3.1\equalsanddoubleequals.runtimeconfig.json
+C:\Users\srinivasulu\source\repos\equalsanddoubleequals\equalsanddoubleequals\bin\Debug\netcoreapp3.1\equalsanddoubleequals.runtimeconfig.dev.json
+C:\Users\srinivasulu\source\repos\equalsanddoubleequals\equalsanddoubleequals\bin\Debug\netcoreapp3.1\equalsanddoubleequals.dll
+C:\Users\srinivasulu\source\repos\equalsanddoubleequals\equalsanddoubleequals\bin\Debug\netcoreapp3.1\equalsanddoubleequals.pdb
+C:\Users\srinivasulu\source\repos\equalsanddoubleequals\equalsanddoubleequals\obj\Debug\netcoreapp3.1\equalsanddoubleequals.csproj.AssemblyReference.cache
+C:\Users\srinivasulu\source\repos\equalsanddoubleequals\equalsanddoubleequals\obj\Debug\netcoreapp3.1\equalsanddoubleequals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\srinivasulu\source\repos\equalsanddoubleequals\equalsanddoubleequals\obj\Debug\netcoreapp3.1\equalsanddoubleequals.AssemblyInfoInputs.cache
+C:\Users\srinivasulu\source\repos\equalsanddoubleequals\equalsanddoubleequals\obj\Debug\netcoreapp3.1\equalsanddoubleequals.AssemblyInfo.cs
+C:\Users\srinivasulu\source\repos\equalsanddoubleequals\equalsanddoubleequals\obj\Debug\netcoreapp3.1\equalsanddoubleequals.csproj.CoreCompileInputs.cache
+C:\Users\srinivasulu\source\repos\equalsanddoubleequals\equalsanddoubleequals\obj\Debug\netcoreapp3.1\equalsanddoubleequals.dll
+C:\Users\srinivasulu\source\repos\equalsanddoubleequals\equalsanddoubleequals\obj\Debug\netcoreapp3.1\equalsanddoubleequals.pdb
+C:\Users\srinivasulu\source\repos\equalsanddoubleequals\equalsanddoubleequals\obj\Debug\netcoreapp3.1\equalsanddoubleequals.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\srinivasulu\source\repos\stringmethods\stringmethods\bin\Debug\netcoreapp3.1\stringmethods.exe
+C:\Users\srinivasulu\source\repos\stringmethods\stringmethods\bin\Debug\netcoreapp3.1\stringmethods.deps.json
+C:\Users\srinivasulu\source\repos\stringmethods\stringmethods\bin\Debug\netcoreapp3.1\stringmethods.runtimeconfig.json
+C:\Users\srinivasulu\source\repos\stringmethods\stringmethods\bin\Debug\netcoreapp3.1\stringmethods.runtimeconfig.dev.json
+C:\Users\srinivasulu\source\repos\stringmethods\stringmethods\bin\Debug\netcoreapp3.1\stringmethods.dll
+C:\Users\srinivasulu\source\repos\stringmethods\stringmethods\bin\Debug\netcoreapp3.1\stringmethods.pdb
+C:\Users\srinivasulu\source\repos\stringmethods\stringmethods\obj\Debug\netcoreapp3.1\stringmethods.csproj.AssemblyReference.cache
+C:\Users\srinivasulu\source\repos\stringmethods\stringmethods\obj\Debug\netcoreapp3.1\stringmethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\srinivasulu\source\repos\stringmethods\stringmethods\obj\Debug\netcoreapp3.1\stringmethods.AssemblyInfoInputs.cache
+C:\Users\srinivasulu\source\repos\stringmethods\stringmethods\obj\Debug\netcoreapp3.1\stringmethods.AssemblyInfo.cs
+C:\Users\srinivasulu\source\repos\stringmethods\stringmethods\obj\Debug\netcoreapp3.1\stringmethods.csproj.CoreCompileInputs.cache
+C:\Users\srinivasulu\source\repos\stringmethods\stringmethods\obj\Debug\netcoreapp3.1\stringmethods.dll
+C:\Users\srinivasulu\source\repos\stringmethods\stringmethods\obj\Debug\netcoreapp3.1\stringmethods.pdb
+C:\Users\srinivasulu\source\repos\stringmethods\stringmethods\obj\Debug\netcoreapp3.1\stringmethods.genruntimeconfig.cache
