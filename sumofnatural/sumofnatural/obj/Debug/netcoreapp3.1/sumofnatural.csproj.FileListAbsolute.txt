@@ -1,0 +1,14 @@
+C:\Users\srinivasulu\source\repos\sumofnatural\sumofnatural\bin\Debug\netcoreapp3.1\sumofnatural.exe
+C:\Users\srinivasulu\source\repos\sumofnatural\sumofnatural\bin\Debug\netcoreapp3.1\sumofnatural.deps.json
+C:\Users\srinivasulu\source\repos\sumofnatural\sumofnatural\bin\Debug\netcoreapp3.1\sumofnatural.runtimeconfig.json
+C:\Users\srinivasulu\source\repos\sumofnatural\sumofnatural\bin\Debug\netcoreapp3.1\sumofnatural.runtimeconfig.dev.json
+C:\Users\srinivasulu\source\repos\sumofnatural\sumofnatural\bin\Debug\netcoreapp3.1\sumofnatural.dll
+C:\Users\srinivasulu\source\repos\sumofnatural\sumofnatural\bin\Debug\netcoreapp3.1\sumofnatural.pdb
+C:\Users\srinivasulu\source\repos\sumofnatural\sumofnatural\obj\Debug\netcoreapp3.1\sumofnatural.csproj.AssemblyReference.cache
+C:\Users\srinivasulu\source\repos\sumofnatural\sumofnatural\obj\Debug\netcoreapp3.1\sumofnatural.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\srinivasulu\source\repos\sumofnatural\sumofnatural\obj\Debug\netcoreapp3.1\sumofnatural.AssemblyInfoInputs.cache
+C:\Users\srinivasulu\source\repos\sumofnatural\sumofnatural\obj\Debug\netcoreapp3.1\sumofnatural.AssemblyInfo.cs
+C:\Users\srinivasulu\source\repos\sumofnatural\sumofnatural\obj\Debug\netcoreapp3.1\sumofnatural.csproj.CoreCompileInputs.cache
+C:\Users\srinivasulu\source\repos\sumofnatural\sumofnatural\obj\Debug\netcoreapp3.1\sumofnatural.dll
+C:\Users\srinivasulu\source\repos\sumofnatural\sumofnatural\obj\Debug\netcoreapp3.1\sumofnatural.pdb
+C:\Users\srinivasulu\source\repos\sumofnatural\sumofnatural\obj\Debug\netcoreapp3.1\sumofnatural.genruntimeconfig.cache

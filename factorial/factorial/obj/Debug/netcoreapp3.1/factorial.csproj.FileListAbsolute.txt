@@ -1,0 +1,14 @@
+C:\Users\srinivasulu\source\repos\factorial\factorial\bin\Debug\netcoreapp3.1\factorial.exe
+C:\Users\srinivasulu\source\repos\factorial\factorial\bin\Debug\netcoreapp3.1\factorial.deps.json
+C:\Users\srinivasulu\source\repos\factorial\factorial\bin\Debug\netcoreapp3.1\factorial.runtimeconfig.json
+C:\Users\srinivasulu\source\repos\factorial\factorial\bin\Debug\netcoreapp3.1\factorial.runtimeconfig.dev.json
+C:\Users\srinivasulu\source\repos\factorial\factorial\bin\Debug\netcoreapp3.1\factorial.dll
+C:\Users\srinivasulu\source\repos\factorial\factorial\bin\Debug\netcoreapp3.1\factorial.pdb
+C:\Users\srinivasulu\source\repos\factorial\factorial\obj\Debug\netcoreapp3.1\factorial.csproj.AssemblyReference.cache
+C:\Users\srinivasulu\source\repos\factorial\factorial\obj\Debug\netcoreapp3.1\factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\srinivasulu\source\repos\factorial\factorial\obj\Debug\netcoreapp3.1\factorial.AssemblyInfoInputs.cache
+C:\Users\srinivasulu\source\repos\factorial\factorial\obj\Debug\netcoreapp3.1\factorial.AssemblyInfo.cs
+C:\Users\srinivasulu\source\repos\factorial\factorial\obj\Debug\netcoreapp3.1\factorial.csproj.CoreCompileInputs.cache
+C:\Users\srinivasulu\source\repos\factorial\factorial\obj\Debug\netcoreapp3.1\factorial.dll
+C:\Users\srinivasulu\source\repos\factorial\factorial\obj\Debug\netcoreapp3.1\factorial.pdb
+C:\Users\srinivasulu\source\repos\factorial\factorial\obj\Debug\netcoreapp3.1\factorial.genruntimeconfig.cache

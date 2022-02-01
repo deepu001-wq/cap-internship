@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sumofnatural", "sumofnatural\sumofnatural.csproj", "{2E6317FD-807B-452F-8B59-DF05DA8260A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E6317FD-807B-452F-8B59-DF05DA8260A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E6317FD-807B-452F-8B59-DF05DA8260A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E6317FD-807B-452F-8B59-DF05DA8260A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E6317FD-807B-452F-8B59-DF05DA8260A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9B84D24-F0EF-467C-B5A5-A3A21BF48D43}
+	EndGlobalSection
+EndGlobal
