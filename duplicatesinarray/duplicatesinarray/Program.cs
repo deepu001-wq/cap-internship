@@ -4,7 +4,7 @@ namespace duplicatesinarray
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
             int[] arr = new int[100];
             int i, j, num, count = 0;
@@ -20,12 +20,12 @@ namespace duplicatesinarray
                 arr[i] = Convert.ToInt32(Console.ReadLine());
             }
 
-            //Find all duplicate elements in array
+            
             for (i = 0; i < num; i++)
             {
                 for (j = i + 1; j < num; j++)
                 {
-                    // If duplicate element found then increment count by 1
+                    
                     if (arr[i] == arr[j])
                     {
                         count++;
