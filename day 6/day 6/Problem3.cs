@@ -8,7 +8,7 @@ namespace day_6
     class program
     {
 
-        static void Main()
+        static void Main7()
         {
             Dog dog = new Dog();
             Console.Write("what is doggys name:");
