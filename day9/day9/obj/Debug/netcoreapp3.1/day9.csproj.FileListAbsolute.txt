@@ -1,0 +1,14 @@
+C:\Users\srinivasulu\source\repos\day9\day9\bin\Debug\netcoreapp3.1\day9.exe
+C:\Users\srinivasulu\source\repos\day9\day9\bin\Debug\netcoreapp3.1\day9.deps.json
+C:\Users\srinivasulu\source\repos\day9\day9\bin\Debug\netcoreapp3.1\day9.runtimeconfig.json
+C:\Users\srinivasulu\source\repos\day9\day9\bin\Debug\netcoreapp3.1\day9.runtimeconfig.dev.json
+C:\Users\srinivasulu\source\repos\day9\day9\bin\Debug\netcoreapp3.1\day9.dll
+C:\Users\srinivasulu\source\repos\day9\day9\bin\Debug\netcoreapp3.1\day9.pdb
+C:\Users\srinivasulu\source\repos\day9\day9\obj\Debug\netcoreapp3.1\day9.csproj.AssemblyReference.cache
+C:\Users\srinivasulu\source\repos\day9\day9\obj\Debug\netcoreapp3.1\day9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\srinivasulu\source\repos\day9\day9\obj\Debug\netcoreapp3.1\day9.AssemblyInfoInputs.cache
+C:\Users\srinivasulu\source\repos\day9\day9\obj\Debug\netcoreapp3.1\day9.AssemblyInfo.cs
+C:\Users\srinivasulu\source\repos\day9\day9\obj\Debug\netcoreapp3.1\day9.csproj.CoreCompileInputs.cache
+C:\Users\srinivasulu\source\repos\day9\day9\obj\Debug\netcoreapp3.1\day9.dll
+C:\Users\srinivasulu\source\repos\day9\day9\obj\Debug\netcoreapp3.1\day9.pdb
+C:\Users\srinivasulu\source\repos\day9\day9\obj\Debug\netcoreapp3.1\day9.genruntimeconfig.cache
