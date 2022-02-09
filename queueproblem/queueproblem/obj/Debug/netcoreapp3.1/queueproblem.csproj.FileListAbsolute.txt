@@ -1,0 +1,14 @@
+C:\Users\srinivasulu\source\repos\queueproblem\queueproblem\bin\Debug\netcoreapp3.1\queueproblem.exe
+C:\Users\srinivasulu\source\repos\queueproblem\queueproblem\bin\Debug\netcoreapp3.1\queueproblem.deps.json
+C:\Users\srinivasulu\source\repos\queueproblem\queueproblem\bin\Debug\netcoreapp3.1\queueproblem.runtimeconfig.json
+C:\Users\srinivasulu\source\repos\queueproblem\queueproblem\bin\Debug\netcoreapp3.1\queueproblem.runtimeconfig.dev.json
+C:\Users\srinivasulu\source\repos\queueproblem\queueproblem\bin\Debug\netcoreapp3.1\queueproblem.dll
+C:\Users\srinivasulu\source\repos\queueproblem\queueproblem\bin\Debug\netcoreapp3.1\queueproblem.pdb
+C:\Users\srinivasulu\source\repos\queueproblem\queueproblem\obj\Debug\netcoreapp3.1\queueproblem.csproj.AssemblyReference.cache
+C:\Users\srinivasulu\source\repos\queueproblem\queueproblem\obj\Debug\netcoreapp3.1\queueproblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\srinivasulu\source\repos\queueproblem\queueproblem\obj\Debug\netcoreapp3.1\queueproblem.AssemblyInfoInputs.cache
+C:\Users\srinivasulu\source\repos\queueproblem\queueproblem\obj\Debug\netcoreapp3.1\queueproblem.AssemblyInfo.cs
+C:\Users\srinivasulu\source\repos\queueproblem\queueproblem\obj\Debug\netcoreapp3.1\queueproblem.csproj.CoreCompileInputs.cache
+C:\Users\srinivasulu\source\repos\queueproblem\queueproblem\obj\Debug\netcoreapp3.1\queueproblem.dll
+C:\Users\srinivasulu\source\repos\queueproblem\queueproblem\obj\Debug\netcoreapp3.1\queueproblem.pdb
+C:\Users\srinivasulu\source\repos\queueproblem\queueproblem\obj\Debug\netcoreapp3.1\queueproblem.genruntimeconfig.cache
