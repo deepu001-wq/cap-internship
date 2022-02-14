@@ -5,7 +5,7 @@ namespace day13
 {
     class Fileproblem1
     {
-        static void Main(string[] args)
+        static void Main4(string[] args)
         {
 
 
