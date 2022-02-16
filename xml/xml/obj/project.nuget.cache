@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "69JpO3sEVDdaQyMhocKbEHQTARjtIZUe+w47fp2XqjlsvFB+usI0Y2Osg6ij/L2tzRY3A3Lqvb6DS3e0nPekIQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\srinivasulu\\source\\repos\\xml\\xml\\xml.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\srinivasulu\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

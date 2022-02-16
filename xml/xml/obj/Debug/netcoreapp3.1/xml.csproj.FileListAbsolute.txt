@@ -1,0 +1,16 @@
+C:\Users\srinivasulu\source\repos\xml\xml\obj\Debug\netcoreapp3.1\xml.csproj.AssemblyReference.cache
+C:\Users\srinivasulu\source\repos\xml\xml\obj\Debug\netcoreapp3.1\xml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\srinivasulu\source\repos\xml\xml\obj\Debug\netcoreapp3.1\xml.AssemblyInfoInputs.cache
+C:\Users\srinivasulu\source\repos\xml\xml\obj\Debug\netcoreapp3.1\xml.AssemblyInfo.cs
+C:\Users\srinivasulu\source\repos\xml\xml\obj\Debug\netcoreapp3.1\xml.csproj.CoreCompileInputs.cache
+C:\Users\srinivasulu\source\repos\xml\xml\bin\Debug\netcoreapp3.1\xml.exe
+C:\Users\srinivasulu\source\repos\xml\xml\bin\Debug\netcoreapp3.1\xml.deps.json
+C:\Users\srinivasulu\source\repos\xml\xml\bin\Debug\netcoreapp3.1\xml.runtimeconfig.json
+C:\Users\srinivasulu\source\repos\xml\xml\bin\Debug\netcoreapp3.1\xml.runtimeconfig.dev.json
+C:\Users\srinivasulu\source\repos\xml\xml\bin\Debug\netcoreapp3.1\xml.dll
+C:\Users\srinivasulu\source\repos\xml\xml\bin\Debug\netcoreapp3.1\xml.pdb
+C:\Users\srinivasulu\source\repos\xml\xml\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\srinivasulu\source\repos\xml\xml\obj\Debug\netcoreapp3.1\xml.csproj.CopyComplete
+C:\Users\srinivasulu\source\repos\xml\xml\obj\Debug\netcoreapp3.1\xml.dll
+C:\Users\srinivasulu\source\repos\xml\xml\obj\Debug\netcoreapp3.1\xml.pdb
+C:\Users\srinivasulu\source\repos\xml\xml\obj\Debug\netcoreapp3.1\xml.genruntimeconfig.cache
