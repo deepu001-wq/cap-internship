@@ -1,0 +1,14 @@
+C:\Users\srinivasulu\source\repos\linqdemo\linqdemo\obj\Debug\netcoreapp3.1\linqdemo.csproj.AssemblyReference.cache
+C:\Users\srinivasulu\source\repos\linqdemo\linqdemo\obj\Debug\netcoreapp3.1\linqdemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\srinivasulu\source\repos\linqdemo\linqdemo\obj\Debug\netcoreapp3.1\linqdemo.AssemblyInfoInputs.cache
+C:\Users\srinivasulu\source\repos\linqdemo\linqdemo\obj\Debug\netcoreapp3.1\linqdemo.AssemblyInfo.cs
+C:\Users\srinivasulu\source\repos\linqdemo\linqdemo\obj\Debug\netcoreapp3.1\linqdemo.csproj.CoreCompileInputs.cache
+C:\Users\srinivasulu\source\repos\linqdemo\linqdemo\bin\Debug\netcoreapp3.1\linqdemo.exe
+C:\Users\srinivasulu\source\repos\linqdemo\linqdemo\bin\Debug\netcoreapp3.1\linqdemo.deps.json
+C:\Users\srinivasulu\source\repos\linqdemo\linqdemo\bin\Debug\netcoreapp3.1\linqdemo.runtimeconfig.json
+C:\Users\srinivasulu\source\repos\linqdemo\linqdemo\bin\Debug\netcoreapp3.1\linqdemo.runtimeconfig.dev.json
+C:\Users\srinivasulu\source\repos\linqdemo\linqdemo\bin\Debug\netcoreapp3.1\linqdemo.dll
+C:\Users\srinivasulu\source\repos\linqdemo\linqdemo\bin\Debug\netcoreapp3.1\linqdemo.pdb
+C:\Users\srinivasulu\source\repos\linqdemo\linqdemo\obj\Debug\netcoreapp3.1\linqdemo.dll
+C:\Users\srinivasulu\source\repos\linqdemo\linqdemo\obj\Debug\netcoreapp3.1\linqdemo.pdb
+C:\Users\srinivasulu\source\repos\linqdemo\linqdemo\obj\Debug\netcoreapp3.1\linqdemo.genruntimeconfig.cache
