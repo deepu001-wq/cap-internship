@@ -6,22 +6,24 @@ using System.Linq;
 using System.Threading.Tasks;
 using WebApplication1.Models;
 using WebApplication1.ViewModels;
-
 namespace WebApplication1.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class CategoryController : ControllerBase
+    public class ColorController : ControllerBase
     {
+
         EcommerceContext _ecommerceDbContext;
-        public CategoryController(EcommerceContext ecommerceDbContext)
+        public ColorController(EcommerceContext ecommerceDbContext)
         {
             _ecommerceDbContext = ecommerceDbContext;
         }
         [HttpGet]
-        public IEnumerable<TblCategory> GetCategories()
+        public IEnumerable<TblColor> GetColors()
         {
-            return _ecommerceDbContext.TblCategories.ToList();
+            return _ecommerceDbContext.TblColors.ToList();
+
+
         }
     }
 }

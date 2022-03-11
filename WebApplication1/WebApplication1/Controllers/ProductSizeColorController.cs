@@ -11,17 +11,20 @@ namespace WebApplication1.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class CategoryController : ControllerBase
+    public class ProductSizeColorController : ControllerBase
     {
+
         EcommerceContext _ecommerceDbContext;
-        public CategoryController(EcommerceContext ecommerceDbContext)
+        public ProductSizeColorController(EcommerceContext ecommerceDbContext)
         {
             _ecommerceDbContext = ecommerceDbContext;
         }
         [HttpGet]
-        public IEnumerable<TblCategory> GetCategories()
+        public IEnumerable<TblProductSizeColor> GetProductSizeColors()
         {
-            return _ecommerceDbContext.TblCategories.ToList();
+            return _ecommerceDbContext.TblProductSizeColors.ToList();
+
+
         }
     }
 }
